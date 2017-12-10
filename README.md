@@ -1,0 +1,1 @@
+# resouceManager30.0
